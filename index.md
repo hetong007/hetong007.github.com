@@ -1,10 +1,10 @@
 ---
 layout: page
-title: PutYourTitleHere
+title: A ProgrammeR
 ---
 {% include JB/setup %}
 
-Blogposts:
+My Blog Posts:
 
 <ul class="posts">
   {% for post in site.posts %}
